@@ -19,8 +19,8 @@ First and main step is to install all the dependencies (Command: flutter pub get
 ## Screen-Shots of UI
 
 <div align="center">
-    <img src="/ScreenShots/home-bottom.jpg" width="400px"</img> 
-    <img src="/ScreenShots/home-top.jpg" width="400px"</img> 
-    <img src="/ScreenShots/cart-screen.jpg" width="400px"</img> 
-    <img src="/ScreenShots/product-detail-screen.jpg" width="400px"</img> 
+    <img src="/ScreenShots/home-bottom.jpg" width="200px"</img> 
+    <img src="/ScreenShots/home-top.jpg" width="200px"</img> 
+    <img src="/ScreenShots/cart-screen.jpg" width="200px"</img> 
+    <img src="/ScreenShots/product-detail-screen.jpg" width="200px"</img> 
 </div>
