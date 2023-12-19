@@ -19,5 +19,5 @@ First and main step is to install all the dependencies (Command: flutter pub get
 ## Screen-Shots of UI
 
 <div align="center">
-    <img src="/screenshots/home-bottom.jpg" width="400px"</img> 
+    <img src="/ScreenShots/home-bottom.jpg" width="400px"</img> 
 </div>
