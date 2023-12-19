@@ -14,3 +14,10 @@ This project is a starting point for a Flutter application.
 
 Just download as zip file or clone it using git clone command in terminal.
 First and main step is to install all the dependencies (Command: flutter pub get)
+
+
+## Screen-Shots of UI
+
+<div align="center">
+    <img src="/screenshots/home-bottom.jpg" width="400px"</img> 
+</div>
