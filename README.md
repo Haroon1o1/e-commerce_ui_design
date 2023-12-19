@@ -1,16 +1,26 @@
 # ecommerce_ui_design
 
-A new Flutter project.
+This is not a project (This is a user-interface of an ecommerce Store)
+
+## How can this project help you
+
+You can freely use widgets like (Cart-items, product-cards, slider)
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## how to run this project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Just download as zip file or clone it using git clone command in terminal.
+First and main step is to install all the dependencies (Command: flutter pub get)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screen-Shots of UI
+
+<div align="center">
+    <img src="/ScreenShots/home-bottom.jpg" width="200px"</img> 
+    <img src="/ScreenShots/home-top.jpg" width="200px"</img> 
+    <img src="/ScreenShots/cart-screen.jpg" width="200px"</img> 
+    <img src="/ScreenShots/product-detail-screen.jpg" width="200px"</img> 
+</div>
